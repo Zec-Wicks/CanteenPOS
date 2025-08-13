@@ -1,0 +1,3 @@
+# disallow all crawling. Note: This project is not intended to be run on the public internet.
+User-agent: *
+Disallow: /
